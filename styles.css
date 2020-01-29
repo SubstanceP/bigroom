@@ -1,0 +1,13 @@
+html {
+  background: url(bgIMG.jpg) no-repeat -33% fixed !important;
+  background-size: cover !important;
+}
+
+
+#full-clndr {
+  background: rgba(255,128,171,.33) !important;
+}
+
+body {
+  color: red;
+}
